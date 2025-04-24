@@ -1,1 +1,1 @@
-# EDA-of-Loan-Approval
+The objective of this analysis is to explore key factors that influence loan approval decisions in a financial institution. By examining variables such as income, loan amount, CIBIL score, employment status, and asset values, we aim to provide actionable insights to optimize approval strategies, reduce risk, and increase customer satisfaction.# EDA-of-Loan-Approval
